@@ -16,17 +16,12 @@ const About = () => {
             / / I am not your average developer
           </p>
           <p className='py-2 text-gray-600'>
-            I have spent the last 4 years in the university where i graduated with a bachelor's degree in 
-            physics, I have always had a knack for
-            technology, working with computers and learning new things. At the start of 2021 I started reading articles on programming and what aspects i could eventually go into,
-            before i started learning HTML and CSS as my first step towards becoming a Front-end web developer. What i thought was just a few small edits turned into  a love for programming
+            Hi i'm Muktar sadiq, i am a web  developer, specializing in Front-end development.
+            i  have a Bachelor's Degree in Physics,i love coding, reading and learning new things.
            
           </p>
           <p className='py-2 text-gray-600'>
-            Fascinated with how intricate programming can be I was quickly drawn
-            to learn more. I started learning javascript and was even more
-            enthused with making websites interactive.I then fully dived into becoming a web developer, and went further to learn technologies like
-            React JS, Next Js, Firebase, while learning new technologies. And now i spend most of my time trying to build projects with those frameworks.
+            Fascinated with how intricate programming can be, my mission is  to design solutions that improve the quality of lives of millions of peopleand to grow and evovle both in my stack and as a person in general.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
